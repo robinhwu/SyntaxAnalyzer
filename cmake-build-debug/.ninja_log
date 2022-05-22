@@ -1,0 +1,13 @@
+# ninja log v5
+0	2372	6749315931038279	CMakeFiles/SyntaxAnalyzer.dir/JackCompiler.cpp.obj	c03fde559207897b
+14	2604	6749315933738893	CMakeFiles/SyntaxAnalyzer.dir/VMWriter.cpp.obj	7b4999ec0d1b0f8b
+27	2953	6749315937351780	CMakeFiles/SyntaxAnalyzer.dir/CompilationEngine.cpp.obj	d3ad0d4df2b242e5
+17	2608	6749315933833659	CMakeFiles/SyntaxAnalyzer.dir/SymbolTable.cpp.obj	f97b51ca84ef2a69
+21	4684	6749315954562205	CMakeFiles/SyntaxAnalyzer.dir/JackToken.cpp.obj	b144af3922e929ef
+4685	5805	6749315965771680	SyntaxAnalyzer.exe	5ce6d2e4077b151c
+36	1516	6749342180090374	CMakeFiles/SyntaxAnalyzer.dir/JackCompiler.cpp.obj	1b2afb284d8900a0
+365	1556	6749342180559129	CMakeFiles/SyntaxAnalyzer.dir/SymbolTable.cpp.obj	90bd406a4de6b841
+2	2084	6749342185871590	CMakeFiles/SyntaxAnalyzer.dir/VMWriter.cpp.obj	6af19c7bc79296c6
+127	3047	6749342195559093	CMakeFiles/SyntaxAnalyzer.dir/CompilationEngine.cpp.obj	524b5ee415fb8bcf
+208	8443	6749342249486788	CMakeFiles/SyntaxAnalyzer.dir/JackToken.cpp.obj	36bca1dc6491b78c
+8443	10508	6749342270113915	SyntaxAnalyzer.exe	856c860fd3f3bbd8
